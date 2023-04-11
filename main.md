@@ -1,3 +1,57 @@
+# カオスマップ
+宇宙産業を大まかにどういう分類分けできるだろうか？
+
+* [日本の｢宇宙産業カオスマップ｣をまとめたらスゴかった…衛星通信にエンタメ、農業まで](https://www.businessinsider.jp/post-238751)
+  - Jul. 16, 2021
+  - 分類
+    + 打ち上げインフラ
+	+ 衛星との通信設備
+	+ 新宇宙探査・開発
+	+ ロケット製造・打ち上げ
+	+ 軌道上サービス
+	+ エンターテイメント
+	+ 衛星製造
+	+ 衛星ビジネス
+	+ その他
+* [SERAPHIM SPACETECH MAP 2023](https://seraphim.vc/wp-content/uploads/2023/04/Ecosystem-Map-2023-Landscape_FINAL_BG_change-copy-2.pdf)	
+  - 2023
+  - 分類
+    + UPSTREAM
+	  * SPACE HARDWARE (BUILD)
+	    - SAT MANUFACTURING
+		- PROPULSION
+		- SUBSYSTEMS
+	  * SOFTWARE (BUILD)
+	    - IN-SPACE
+		- TERRESTRIAL
+	  * LAUNCHERS (LAUNCH)
+	  * SPACE TUGS (LAUNCH)
+	  * SATELLITE CONSTELLATIONS (PLATFORMS)
+	    - REMOTE SENSING
+		- CONNECTIVITY
+		- IOT
+	  * HAPS (PLATFORMS)
+	+ DOWNSTREAM
+	  * COMMUNICATIONS
+	  * GROUND TERMINALS
+	  * SECURITY & STORAGE
+	  * SATELLITE DATA
+	  * xxx?
+	    - CLIMATE
+		- LOGISTICS
+		- INSURANCE
+		- LOCATION & MAPPING
+		- OTHER
+	+ IN-SPACE ECONOMY
+	  * SPACE SERVICES
+	  * SPACE INFRASTRUCTURE
+	  * IN-SPACE R&D & MANUFACTURING
+	  * EXPLORATION & UTILIZATION
+
+# その他
+* 宇宙分野に特化したベンチャーキャピタル：https://seraphim.vc/
+
+
 # NASA INTERNATIONAL SPACE APPS CHALLENGE
 * [URL](https://www.spaceappschallenge.org/)
 
